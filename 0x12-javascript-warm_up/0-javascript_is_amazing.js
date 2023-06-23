@@ -1,3 +1,4 @@
+
 // Script that prints "JavaScript is amazing".
 
 let myVar = 'JavaScript is amazing';
